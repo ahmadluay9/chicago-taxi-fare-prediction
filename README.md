@@ -1,6 +1,6 @@
 # Chicago Taxi Fare Prediction Application using Vertex AI AutoML
 
-- [Application Demo](https://taxi-fare-prediction-application-7emkch5d3q-uc.a.run.app/)
+- [Application Demo](https://taxi-fare-prediction-app-7emkch5d3q-uc.a.run.app)
 
 The "Chicago Taxi Fare Prediction" project aims to develop a machine learning model using [Vertex AI AutoML](https://cloud.google.com/vertex-ai/docs) that can be used for taxi fare prediction in the Chicago area. The location was obtained using the [Google Places API](https://developers.google.com/maps/documentation/places/web-service), while the distance and duration were obtained using the [Google Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix).
 
