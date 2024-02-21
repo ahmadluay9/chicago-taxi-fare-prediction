@@ -35,6 +35,11 @@ This repository consists of several files :
 
 ### How to use
 
+
 Users can use this application by entering the desired location on the widget. You can also see the Exploratory Data Analysis and Model Evaluation.
 
 **Preview**
+
+https://github.com/ahmadluay9/chicago-taxi-fare-prediction/assets/123846438/ac9aa27e-93c0-417e-b1d4-b5b02bbeaf68
+
+
