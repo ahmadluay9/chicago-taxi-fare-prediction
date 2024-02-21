@@ -205,8 +205,8 @@ def main():
                 st.write(f" Trip start time: {combined_datetime}")
                 st.write(f" Pickup Location: {Origin}")
                 st.write(f" Dropoff Location: {Destination}")
-                st.write(f" Trip distance: {distance_value} km")
-                st.write(f" Trip duration: {duration_value} minutes")
+                st.write(f" Trip distance: {distance_text}")
+                st.write(f" Trip duration: {duration_text}")
             else:
                 st.write("Pickup location is outside our coverage area")
 
